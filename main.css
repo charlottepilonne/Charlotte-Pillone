@@ -1,0 +1,138 @@
+h1 
+{
+	color: white;
+}
+.WRONG
+{
+	color:#d24637;
+	text-decoration: underline;
+}
+.motherfuckingwebsite
+{
+	color:#b00000;
+}
+.Ghp
+{
+	color: #ca1a70;
+	text-decoration: underline;
+}
+.accessible
+{
+	color:#ca1a70;
+	text-decoration: underline;
+}
+.ARPANET
+{
+	color:#ca1a70;
+	text-decoration: underline;
+}
+.IP
+{
+	color:#ca1a70;
+	text-decoration: underline;
+}
+.hichbtwweighs1521kBwtf
+{ 
+	font-size:6px;
+ }
+ .twd
+ {
+ 	font-size:6px;
+ }
+ .shittyblue
+ {
+ 	color:#00e;
+ }
+ .nicecolor
+ {
+ 	color:#ca1a70;
+	text-decoration: underline;
+ }
+ .violetishcolor
+ {
+ 	color:#551a8b;
+ }
+ .sc
+ {
+ 	color:#ca1a70;
+	text-decoration: underline;
+ }
+ .gt
+ {
+ 	color:#ca1a70;
+	text-decoration: underline;
+ }
+ .dm
+ {
+ 	color:#ca1a70;
+	text-decoration: underline;
+ }
+ .Lt
+ {
+ 	color:#ca1a70;
+	text-decoration: underline;
+ }
+ .ng
+ {
+ 	color:#ca1a70;
+	text-decoration: underline;
+ }
+ .ac
+ {
+ 	color:#ca1a70;
+	text-decoration: underline;
+ }
+.ul
+ {
+ 	color:#ca1a70;
+	text-decoration: underline;
+ }
+ .tc
+ {
+ 	color:#ca1a70;
+	text-decoration: underline;
+ }
+ .am
+ {
+ 	color:#ca1a70;
+	text-decoration: underline;
+ }
+
+
+ .fancypositioning
+{
+    display: block;
+    content: "";
+    clear: both;
+}
+.picture-left
+{
+    float:left;
+    width: 40%;
+    overflow: hidden;
+    margin-right: 1em;
+}
+.tleft
+{
+    float:left;
+    width: 55%;
+}
+
+body
+{
+	margin: 40px auto;
+	max-width: 820px;
+	line-height: 1.4;
+	font-size: 15px;
+	font-family: verdana;
+	color: white;
+	padding:0;
+	text-align: left;
+	background: black;
+}
+p
+{
+	text-align: justify;
+}
+
+
